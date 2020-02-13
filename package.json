@@ -1,0 +1,26 @@
+{
+  "name": "power",
+  "version": "1.0.0",
+  "description": "A Power Calculator,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahmudqosim/NpmPower.git"
+  },
+  "keywords": [
+    "Power",
+    "Node",
+    "Npm",
+    "Functions",
+    "Javascript"
+  ],
+  "author": "Mahmud Qosim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mahmudqosim/NpmPower/issues"
+  },
+  "homepage": "https://github.com/Mahmudqosim/NpmPower#readme"
+}
